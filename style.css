@@ -21,3 +21,8 @@ body{
     opacity: 0.3;
     z-index: -1;
 }
+
+.container .navbar{
+    height: 100px;
+    display: flex; 
+}
