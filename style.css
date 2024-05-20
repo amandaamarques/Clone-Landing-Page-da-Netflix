@@ -33,3 +33,8 @@ body{
     float: left;
 }
 
+.container .navbar .left img{
+    height: 100px;
+    position: absolute;
+    left: 35px;
+}
