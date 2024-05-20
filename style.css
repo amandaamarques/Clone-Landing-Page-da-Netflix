@@ -148,3 +148,7 @@ body{
     background-color: #f40612;
 }
 
+.container .title .content form .email button a{
+    text-decoration: none;
+    color: white;
+}
