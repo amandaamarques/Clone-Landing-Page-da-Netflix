@@ -93,3 +93,9 @@ body{
     text-align: center;
 }
 
+.container .title .content h1{
+    width: 650px;
+    margin: auto;
+    font-size: 3.1rem;
+    text-align: center;
+}
