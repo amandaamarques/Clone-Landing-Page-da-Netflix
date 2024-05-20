@@ -143,3 +143,8 @@ body{
     border: none;
     margin-left: -5px;
 }
+
+.container .title .content form .email button:hover{
+    background-color: #f40612;
+}
+
