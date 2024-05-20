@@ -118,3 +118,11 @@ body{
     margin: auto;
 }
 
+.container .title .content form .email input{
+    height: 60px;
+    width: 450px;
+    margin: auto;
+    padding: 20px;
+    font-size: 20px;
+    outline: none;
+}
