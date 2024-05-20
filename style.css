@@ -86,3 +86,10 @@ body{
     padding: 70px 45px;
 }
 
+.container .title .content{
+    width: 950px;
+    margin: auto;
+    padding: 75px 0;
+    text-align: center;
+}
+
