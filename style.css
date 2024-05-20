@@ -99,3 +99,10 @@ body{
     font-size: 3.1rem;
     text-align: center;
 }
+
+.container .title .content h2{
+    width: 650px;
+    margin: auto;
+    font-size: 1.6rem;
+    text-align: center;
+}
