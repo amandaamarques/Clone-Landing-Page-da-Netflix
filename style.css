@@ -38,3 +38,11 @@ body{
     position: absolute;
     left: 35px;
 }
+
+.container .navbar .right{
+    display: flex;
+    height: 100px;
+    float: right;
+    position: absolute;
+    right: 50px;
+}
