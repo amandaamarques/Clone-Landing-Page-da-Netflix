@@ -82,5 +82,7 @@ body{
     color: white;
 }
 
-
+.container .title{
+    padding: 70px 45px;
+}
 
